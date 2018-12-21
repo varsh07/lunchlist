@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Listapplication</string>
+
+    <string-array name="items">
+        <item>Mediterranean Chicken Salad-Lunch</item>
+        <item>Buffalo Chicken Salad-Lunch</item>
+        <item>Chicken Caesar Salad-Lunch</item>
+        <item>Quinoa Power Salad-Lunch</item>
+        <item>Chef Salad-Lunch</item>
+        <item>Grilled Chicken Salad-Lunch</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$8.99</item>
+        <item>$6.99</item>
+        <item>$6.99</item>
+        <item>$8.99</item>
+        <item>$6.99</item>
+        <item>$6.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Seasoned grilled chicken, crisp romaine lettuce, tomatoes, red onions, cucumbers, kalamata olives, and papperocini topped with feta cheese.</item>
+        <item>Crispy fried chicken tossed in beefs signature buffalo sauce, and served over crisp romaine lettuce, topped with parmesan cheese and croutons.</item>
+        <item>Crispy romaine lettuce, seasoned croutons, and shredded parmesan cheese tossed in a tangy Caesar dressing. Topped with your choice of grilled or blackened chicken.</item>
+        <item>Grilled chicken, crisp salad greens, diced tomatoes, red onions and cheddar jack cheese.</item>
+        <item>Sliced turkey and ham, bacon, cheddar jack cheese, chopped tomatoes, and cucumbers over crisp greens.</item>
+        <item>Seasoned grilled chicken and sauteed musrooms on crisp salad greens with cheddar jack cheese, tomatoes, cucumber and red onions.</item>
+    </string-array>
+</resources>
